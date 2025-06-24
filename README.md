@@ -1,0 +1,1 @@
+# JavaScript_LocalStoragePractice_CP12
